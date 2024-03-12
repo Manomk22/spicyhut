@@ -125,6 +125,7 @@ table{
     background:linear-gradient(to right,rgb(100,100,100),rgb(53,52,52)) ;
     color: var(--white);
     display: flex;
+    flex-wrap: wrap;
 }
 .location h2{
     color: var(--green);
